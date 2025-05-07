@@ -9,8 +9,6 @@ W pliku test_file.py znajdują się testy jednostkowe:
 
 ---------------------------------------------------------
 
-![image](https://github.com/user-attachments/assets/8e03438f-e18e-410c-a98b-3c19c78a25a9)
-
 # Zadanie 2
 Poprawnie udaje się utworzyć workflow, który faktycznie uruchamia się automatycznie przy każdym pushu i pullu oraz pobiera zależności z requierements.txt. UDaje się też uruchamianie testów jednostkowych
 
@@ -18,3 +16,5 @@ Poprawnie udaje się utworzyć workflow, który faktycznie uruchamia się automa
 
 # Zadanie 3
 Mimo wielu prób - w tym próba z Docker Hub - stale otzrymuję błąd Unauthorized. Niestety nie jestem w stanie wykonać tej części zadania
+
+![image](https://github.com/user-attachments/assets/8e03438f-e18e-410c-a98b-3c19c78a25a9)

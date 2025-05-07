@@ -1,4 +1,7 @@
 # ML-CI-CD
+## Gabriela Myszkowiak, 120669
+## NTPD LAB 05
+--------------------------------------------------------
 # Zadanie 1
 W pliku test_file.py znajdują się testy jednostkowe:
 

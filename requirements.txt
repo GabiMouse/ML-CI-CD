@@ -1,0 +1,4 @@
+flask
+pydantic
+numpy
+scikit-learn
